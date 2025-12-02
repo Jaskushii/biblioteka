@@ -1,0 +1,6 @@
+[
+  { "id": 1, "title": "Wiedźmin", "author": "Andrzej Sapkowski", "genre": 1, "rating": 3 },
+  { "id": 2, "title": "Zaginiona", "author": "Gillian Flynn", "genre": 2, "rating": 4 },
+  { "id": 3, "title": "Kosmos", "author": "Carl Sagan", "genre": 3, "rating": 5 },
+  { "id": 4, "title": "Hobbit", "author": "J.R.R. Tolkien", "genre": 1, "rating": 2 }
+]
